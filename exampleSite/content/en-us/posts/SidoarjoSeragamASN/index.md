@@ -49,9 +49,6 @@ Demikianlah informasi tentang penjualan seragam sekolah di Sidoarjo. Jangan ragu
 
 
 ## Kontak
-Nomer WhatsApp +6285806660242
-{{< button color="green" icon="eva eva-message-circle" content="WhatsApp" link="https://api.whatsapp.com/send?phone=6285806660242&text=Halo%20Informasi%20beli%20seragam%20sekolah" >}}
-<br>
 Nomer WhatsApp +6289666844022
 {{< button color="green" icon="eva eva-message-circle" content="WhatsApp" link="https://api.whatsapp.com/send?phone=6289666844022&text=Halo%20Informasi%20beli%20seragam%20sekolah" >}}
 
